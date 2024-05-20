@@ -38,7 +38,7 @@ def procesar_df(df, distancia):
     return df
 
 # Leer el archivo Excel
-file_path = 'Merck_Lauf/Merck.xlsx'
+file_path = 'DBs/Merck.xlsx'
 
 
 # Leer las hojas y procesarlas
